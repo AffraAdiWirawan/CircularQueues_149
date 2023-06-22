@@ -3,7 +3,7 @@
 using namespace std;
 
 class queues {
-
+     
 };
 
 int main()
